@@ -3,10 +3,10 @@
   display: block;
 }
 
-.form_field:not(:last-of-type) {
+.form_field:not(:last-child) {
   margin-bottom: 10px;
 }
 
-fieldset {
+.field {
   margin-bottom: 20px;
 }
